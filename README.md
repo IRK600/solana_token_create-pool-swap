@@ -1,5 +1,5 @@
 # Instructions
-
+deploy constract
 1: Install node modules by running 'yarn' on termial.
 node version : 18.19.0
 
