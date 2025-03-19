@@ -25,3 +25,4 @@ Run 'npm run deploy-dev' or 'yarn deploy-dev' on terminal to deploy on devnet.
 
 5: Input required information for deployment.
 Simly press Enter to proceed with default values.
+Thank you.
