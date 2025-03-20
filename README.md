@@ -1,7 +1,7 @@
 # Instructions
 header
 1: Install node modules by running 'yarn' on termial.
-node version : 18.19.0
+node version : latest
 
 2: Place wallet private key to be used for deployment inside .env.devnet, .env.mainnet files.
 note: The private keys should be from Solana, not EVM
