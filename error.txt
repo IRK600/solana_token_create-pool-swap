@@ -1,3 +1,6 @@
 There  is no errors now.
 
+<<<<<<< HEAD
 https://github.com/SmartBrainDev why no
+=======
+>>>>>>> 272c9f93e800b906dbe458b28dc04375406a788d
